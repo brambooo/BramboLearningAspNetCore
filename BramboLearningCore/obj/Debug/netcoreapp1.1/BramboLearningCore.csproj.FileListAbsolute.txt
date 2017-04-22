@@ -1,0 +1,9 @@
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\bin\Debug\netcoreapp1.1\BramboLearningCore.deps.json
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\bin\Debug\netcoreapp1.1\BramboLearningCore.runtimeconfig.json
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\bin\Debug\netcoreapp1.1\BramboLearningCore.runtimeconfig.dev.json
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\bin\Debug\netcoreapp1.1\BramboLearningCore.dll
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\bin\Debug\netcoreapp1.1\BramboLearningCore.pdb
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\obj\Debug\netcoreapp1.1\BramboLearningCore.csprojResolveAssemblyReference.cache
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\obj\Debug\netcoreapp1.1\BramboLearningCore.AssemblyInfo.cs
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\obj\Debug\netcoreapp1.1\BramboLearningCore.dll
+c:\users\bram\documents\visual studio 2017\Projects\BramboLearningCore\BramboLearningCore\obj\Debug\netcoreapp1.1\BramboLearningCore.pdb
